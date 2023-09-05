@@ -1,6 +1,7 @@
 # Revenue-Analysis-Dashboard.
 Revenue Analysis Dashboard is a powerful solution that empowers businesses to gain valuable insights from their sales data, enabling informed decisions and strategic planning
 Using a user-friendly interface, this dashboard presents complex sales data in a visually appealing and easy-to-understand format. With a focus on three key dimensions—Country, Product, and Revenue—the dashboard facilitates in-depth exploration and analysis of sales trends, contributing to a deeper understanding of market dynamics.
+
 Key Features:
 
 Data Visualization Excellence: Leverage the interactive power of Power BI to transform raw data into interactive charts, graphs, and maps, allowing users to instantly grasp the big picture and drill down into specific details.
